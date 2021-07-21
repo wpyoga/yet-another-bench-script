@@ -8,7 +8,7 @@
 . split-parts/default-flags.sh
 
 # @MERGE
-. split-parts/skip-flags.sh
+. split-parts/parse-args.sh
 
 # @MERGE
 . split-parts/check-installed-utils.sh
