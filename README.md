@@ -1,3 +1,5 @@
+> This branch is a proof-of-concept modularized fork of the master branch from [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script). The original script `yabs.sh` is unmodified, and the modularized script is `yabs-split.sh`. With [merge-shell](https://github.com/wpyoga/merge-shell) installed, the correctness of the modularization process can be verified by running `make test` in this directory.
+
 # Yet-Another-Bench-Script
 
 Here's an attempt to create _yet another_ damn Linux server *bench*marking _script_.
